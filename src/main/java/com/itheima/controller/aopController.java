@@ -8,5 +8,6 @@ public class aopController {
     public void fun01(){
         System.out.println("github..");
         System.out.println("branch protection");
+        System.out.println("day_03");
     }
 }
