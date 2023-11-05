@@ -13,5 +13,6 @@ public class aopController {
         System.out.println("day_03");
         System.out.println("day_03");
         System.out.println("day_03_05");
+        System.out.println("day_03_06");
     }
 }
