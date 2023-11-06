@@ -15,4 +15,14 @@ public class aopController {
         System.out.println("day_03_05");
         System.out.println("day_03_06");
     }
+
+    public void funTn(Integer n){
+        for (int i = 1; i <= n; i++) {
+            int sum = 0;
+            for (int j = i; j >= 1; j--) {
+                sum += j;
+            }
+            System.out.println("sum of numbers from " + i + " to 1 is: " + sum);
+        }
+    }
 }
