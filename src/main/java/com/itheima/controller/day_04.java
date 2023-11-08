@@ -12,4 +12,8 @@ public class day_04 {
         }
         return b;
     }
+
+    public void day05(){
+        System.out.println("day-05");
+    }
 }
