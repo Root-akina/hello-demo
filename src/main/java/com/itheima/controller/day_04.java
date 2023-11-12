@@ -16,4 +16,7 @@ public class day_04 {
     public void day05(){
         System.out.println("day-05");
     }
+    public void  day07(){
+        System.out.println("commit");
+    }
 }
